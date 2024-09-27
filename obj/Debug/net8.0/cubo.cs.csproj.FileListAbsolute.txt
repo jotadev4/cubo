@@ -1,0 +1,14 @@
+D:\cubo.cs\obj\Debug\net8.0\cubo.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\cubo.cs\obj\Debug\net8.0\cubo.cs.AssemblyInfoInputs.cache
+D:\cubo.cs\obj\Debug\net8.0\cubo.cs.AssemblyInfo.cs
+D:\cubo.cs\obj\Debug\net8.0\cubo.cs.csproj.CoreCompileInputs.cache
+D:\cubo.cs\bin\Debug\net8.0\cubo.cs.exe
+D:\cubo.cs\bin\Debug\net8.0\cubo.cs.deps.json
+D:\cubo.cs\bin\Debug\net8.0\cubo.cs.runtimeconfig.json
+D:\cubo.cs\bin\Debug\net8.0\cubo.cs.dll
+D:\cubo.cs\bin\Debug\net8.0\cubo.cs.pdb
+D:\cubo.cs\obj\Debug\net8.0\cubo.cs.dll
+D:\cubo.cs\obj\Debug\net8.0\refint\cubo.cs.dll
+D:\cubo.cs\obj\Debug\net8.0\cubo.cs.pdb
+D:\cubo.cs\obj\Debug\net8.0\cubo.cs.genruntimeconfig.cache
+D:\cubo.cs\obj\Debug\net8.0\ref\cubo.cs.dll
